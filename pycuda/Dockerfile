@@ -1,6 +1,6 @@
 FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
 
-ENV TZ=Europe/Kiev
+ENV TZ=Europe/Berlin
 
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 

@@ -1,0 +1,1 @@
+https://www.semipol.de/posts/2017/03/coding-python-in-neovim-with-ipython-as-a-repl/
